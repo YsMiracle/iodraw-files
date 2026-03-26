@@ -9,6 +9,9 @@
             <mxRectangle x="150" y="150" width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-5" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
+          <mxGeometry x="81" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
