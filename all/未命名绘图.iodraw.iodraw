@@ -81,8 +81,8 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-49" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-46">
           <mxGeometry x="260" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
-          <mxGeometry x="192" y="329" width="10" height="10" as="geometry" />
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="126" y="326" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
