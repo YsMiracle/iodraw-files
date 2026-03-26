@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-3" value="&#xa;&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(248, 248, 248); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;境外开源报告&lt;/span&gt;&#xa;&#xa;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#36393d;labelBackgroundColor=none;gradientColor=none;perimeterSpacing=0;swimlaneFillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-3" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;境外涉华首都高校开源情报研究的总体思路与方法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#36393d;labelBackgroundColor=none;gradientColor=none;perimeterSpacing=0;swimlaneFillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="39" y="120" width="721" height="465" as="geometry">
             <mxRectangle x="150" y="150" width="390" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -54,7 +54,7 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="30" y="202.5" width="70" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;align=left;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="130" y="310" width="70" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.49;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-3">
