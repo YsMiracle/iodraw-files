@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-3" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;境外涉华首都高校开源情报研究的总体思路与方法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#99FFCC;strokeColor=#36393d;labelBackgroundColor=none;gradientColor=none;perimeterSpacing=0;" vertex="1" parent="1">
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-3" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;境外涉华首都高校开源情报研究的总体思路与方法&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#36393d;labelBackgroundColor=none;gradientColor=none;perimeterSpacing=0;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="39" y="120" width="721" height="400" as="geometry">
             <mxRectangle x="150" y="150" width="390" height="30" as="alternateBounds" />
           </mxGeometry>
