@@ -33,7 +33,7 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-11" target="JaxWSSw-hMi91ldZBh8N-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-11" value="网络节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="245" y="140" width="230" height="250" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-15" value="&lt;b&gt;第一阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
