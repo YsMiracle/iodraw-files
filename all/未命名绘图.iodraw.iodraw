@@ -21,7 +21,7 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-6" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;逆向解构&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#FFCE9F;labelBackgroundColor=none;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="301" y="40" width="119" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-8" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(248, 248, 248);&quot;&gt;对策生成&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#FFF4C3;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-8" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;对策生成&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#FFF4C3;labelBackgroundColor=none;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="471" y="40" width="119" height="80" as="geometry" />
         </mxCell>
       </root>
