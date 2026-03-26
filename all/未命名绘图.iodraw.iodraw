@@ -60,6 +60,9 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.49;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-32" target="JaxWSSw-hMi91ldZBh8N-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-36" value="、" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-33" target="JaxWSSw-hMi91ldZBh8N-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
