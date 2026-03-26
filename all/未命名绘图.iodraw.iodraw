@@ -13,7 +13,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-5" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;问题识别&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#7EA6E0;labelBackgroundColor=none;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
-          <mxGeometry x="121" y="40" width="119" height="80" as="geometry" />
+          <mxGeometry x="121" y="40" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-6" target="JaxWSSw-hMi91ldZBh8N-8">
           <mxGeometry relative="1" as="geometry" />
