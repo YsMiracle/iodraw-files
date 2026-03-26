@@ -48,6 +48,18 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-26" value="第二阶段" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="301" y="150" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-27" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-28" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-27">
+          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-29" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-27">
+          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-30" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-27">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
