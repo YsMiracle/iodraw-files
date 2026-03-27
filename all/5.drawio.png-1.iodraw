@@ -95,7 +95,7 @@
         <mxCell id="PguEGsbpX9-gNqg4FFNd-22" value="技术偏好" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-48">
           <mxGeometry x="10" y="97.5" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="PguEGsbpX9-gNqg4FFNd-23" value="协同网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-48">
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-23" value="人才关注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-48">
           <mxGeometry x="10" y="151" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-49" value="技术：技术链条" style="swimlane;startSize=20;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-46" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="PguEGsbpX9-gNqg4FFNd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-49" source="PguEGsbpX9-gNqg4FFNd-25" target="PguEGsbpX9-gNqg4FFNd-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PguEGsbpX9-gNqg4FFNd-25" value="机构署名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-49">
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-25" value="传统手段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-49">
           <mxGeometry x="10" y="41" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-49" source="PguEGsbpX9-gNqg4FFNd-27">
