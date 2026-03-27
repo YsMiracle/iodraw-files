@@ -10,10 +10,10 @@
         <mxCell id="GrYNY2WeFRYoJran8DqH-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;技术维度：AI赋能下的开源情报攫取链条演进&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="30" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrYNY2WeFRYoJran8DqH-30" value="" style="group;rounded=0;fillColor=none;" parent="1" vertex="1" connectable="0">
+        <mxCell id="GrYNY2WeFRYoJran8DqH-30" value="" style="group;rounded=0;fillColor=none;strokeColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150" y="80" width="340" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="GrYNY2WeFRYoJran8DqH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#FFFFFF;" parent="GrYNY2WeFRYoJran8DqH-30" vertex="1">
+        <mxCell id="GrYNY2WeFRYoJran8DqH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;gradientColor=#FFFFFF;" parent="GrYNY2WeFRYoJran8DqH-30" vertex="1">
           <mxGeometry width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GrYNY2WeFRYoJran8DqH-19" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="GrYNY2WeFRYoJran8DqH-30" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="GrYNY2WeFRYoJran8DqH-55" value="智能驱动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#001DBC;fontStyle=1;" parent="GrYNY2WeFRYoJran8DqH-30" vertex="1">
           <mxGeometry x="222.5" y="246" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrYNY2WeFRYoJran8DqH-31" value="" style="group;rounded=0;fontColor=default;" parent="1" vertex="1" connectable="0">
+        <mxCell id="GrYNY2WeFRYoJran8DqH-31" value="" style="group;rounded=0;fontColor=default;fillColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="540" y="80" width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GrYNY2WeFRYoJran8DqH-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FFFFFF;" parent="GrYNY2WeFRYoJran8DqH-31" vertex="1">
