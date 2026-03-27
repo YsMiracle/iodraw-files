@@ -9,6 +9,9 @@
             <mxRectangle x="150" y="150" width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FUcMa6_dTdMqFL3Zaz3r-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
+          <mxGeometry x="22" y="130" width="178" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-5" target="JaxWSSw-hMi91ldZBh8N-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -65,9 +68,6 @@
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-58" value="规律性特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="516" y="210" width="74" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FUcMa6_dTdMqFL3Zaz3r-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
-          <mxGeometry x="22" y="130" width="198" height="250" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
