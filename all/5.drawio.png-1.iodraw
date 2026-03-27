@@ -120,6 +120,9 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-16" value="&lt;b&gt;第三阶段：&lt;/b&gt;归纳特征，聚焦对策生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="219.75" y="500" width="253.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-58" target="FUcMa6_dTdMqFL3Zaz3r-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-58" value="规律性特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="130" y="540" width="74" height="40" as="geometry" />
         </mxCell>
