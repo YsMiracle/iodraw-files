@@ -67,6 +67,11 @@
         <mxCell id="PguEGsbpX9-gNqg4FFNd-11" value="机构署名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-47">
           <mxGeometry x="15" y="36" width="80" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-47" source="PguEGsbpX9-gNqg4FFNd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-12" value="资金来源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-47">
           <mxGeometry x="15" y="92.5" width="80" height="25" as="geometry" />
         </mxCell>
