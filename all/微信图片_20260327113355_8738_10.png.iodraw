@@ -100,10 +100,10 @@
         <mxCell id="GrYNY2WeFRYoJran8DqH-60" value="智能驱动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#001DBC;fontStyle=1;" parent="GrYNY2WeFRYoJran8DqH-31" vertex="1">
           <mxGeometry x="224" y="245" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrYNY2WeFRYoJran8DqH-76" value="" style="group;fillColor=none;" parent="1" vertex="1" connectable="0">
+        <mxCell id="GrYNY2WeFRYoJran8DqH-76" value="" style="group;fillColor=none;strokeColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150" y="390" width="340" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="GrYNY2WeFRYoJran8DqH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FFFFFF;" parent="GrYNY2WeFRYoJran8DqH-76" vertex="1">
+        <mxCell id="GrYNY2WeFRYoJran8DqH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;gradientColor=#FFFFFF;" parent="GrYNY2WeFRYoJran8DqH-76" vertex="1">
           <mxGeometry width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GrYNY2WeFRYoJran8DqH-65" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" parent="GrYNY2WeFRYoJran8DqH-76" vertex="1">
