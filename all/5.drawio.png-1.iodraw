@@ -30,12 +30,6 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-8" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;对策生成&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=none;labelBackgroundColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="471" y="77" width="119" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="349" as="sourcePoint" />
-            <mxPoint x="245" y="349" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-15" value="&lt;b&gt;第一阶段：&lt;/b&gt;锚定分析对象，构建资料基础" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="52" y="213" width="218" height="30" as="geometry" />
         </mxCell>
@@ -46,12 +40,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="301.25" as="sourcePoint" />
             <mxPoint x="113" y="326.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="JaxWSSw-hMi91ldZBh8N-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="407.75" as="sourcePoint" />
-            <mxPoint x="115" y="389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-40" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; text-align: start; white-space-collapse: preserve-breaks; font-size: 10px;&quot;&gt;境外开源报告&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
