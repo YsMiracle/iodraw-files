@@ -36,7 +36,7 @@
             <mxPoint x="245" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-15" value="&lt;b&gt;第一阶段：&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-15" value="&lt;b&gt;第一阶段：&lt;/b&gt;锚定分析对象，构建资料基础" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="52" y="213" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-26" value="&lt;b&gt;第二阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
