@@ -121,17 +121,17 @@
           <mxGeometry x="219.75" y="500" width="253.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-58" value="规律性特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="121" y="590" width="74" height="40" as="geometry" />
+          <mxGeometry x="261.5" y="560" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-7" value="&lt;b style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;首都高校开源安全治理建议&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="131.5" y="660" width="150" height="60" as="geometry" />
+          <mxGeometry x="272" y="630" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-58" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="207" y="661" as="targetPoint" />
+            <mxPoint x="347.5" y="631" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="158" y="650" />
-              <mxPoint x="207" y="650" />
+              <mxPoint x="298.5" y="620" />
+              <mxPoint x="347.5" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -139,7 +139,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-59" value="效能局限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="217" y="590" width="74" height="40" as="geometry" />
+          <mxGeometry x="357.5" y="560" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-41" target="FUcMa6_dTdMqFL3Zaz3r-2">
           <mxGeometry relative="1" as="geometry" />
