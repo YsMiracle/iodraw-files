@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ewivrbpOkjv1M3Is3bO8-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="200" height="200" as="geometry" />
+        <mxCell id="ewivrbpOkjv1M3Is3bO8-1" value="首都高校开源情报搜集分析研判客体" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="610" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
