@@ -45,7 +45,7 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-16" value="&lt;b&gt;第三阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="539.5" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-26" value="&lt;b&gt;第二阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-26" value="&lt;b&gt;第二阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="301" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-31" value="&lt;b&gt;基础资料库&lt;/b&gt;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;fillColor=#3399FF;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
