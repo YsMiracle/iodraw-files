@@ -84,7 +84,7 @@
         <mxCell id="PguEGsbpX9-gNqg4FFNd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-48" source="PguEGsbpX9-gNqg4FFNd-20" target="PguEGsbpX9-gNqg4FFNd-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PguEGsbpX9-gNqg4FFNd-20" value="机构署名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-48">
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-20" value="议题聚焦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-48">
           <mxGeometry x="10" y="41" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-48" source="PguEGsbpX9-gNqg4FFNd-22">
@@ -92,7 +92,7 @@
             <mxPoint x="50" y="151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PguEGsbpX9-gNqg4FFNd-22" value="资金来源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-48">
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-22" value="技术偏好" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-48">
           <mxGeometry x="10" y="97.5" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-23" value="协同网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-48">
