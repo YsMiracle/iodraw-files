@@ -13,7 +13,7 @@
           <mxGeometry x="71" y="40" width="578" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;搜集——分析——研判&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="130" y="254" width="280" height="207" as="geometry" />
+          <mxGeometry x="30" y="253" width="280" height="207" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-5" target="JaxWSSw-hMi91ldZBh8N-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -36,12 +36,6 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-26" value="&lt;b&gt;第二阶段：&lt;/b&gt;&lt;span style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: var(--color-gray-200,currentColor); border-image: initial; margin: 0px; padding: 0px; font-weight: var(--font-weight-medium,500); --univer-tw-border-spacing-x: 0; --univer-tw-border-spacing-y: 0; --univer-tw-translate-x: 0; --univer-tw-translate-y: 0; --univer-tw-rotate: 0; --univer-tw-skew-x: 0; --univer-tw-skew-y: 0; --univer-tw-scale-x: 1; --univer-tw-scale-y: 1; --univer-tw-pan-x: ; --univer-tw-pan-y: ; --univer-tw-pinch-zoom: ; --univer-tw-scroll-snap-strictness: proximity; --univer-tw-gradient-from-position: ; --univer-tw-gradient-via-position: ; --univer-tw-gradient-to-position: ; --univer-tw-ordinal: ; --univer-tw-slashed-zero: ; --univer-tw-numeric-figure: ; --univer-tw-numeric-spacing: ; --univer-tw-numeric-fraction: ; --univer-tw-ring-inset: ; --univer-tw-ring-offset-width: 0px; --univer-tw-ring-offset-color: #fff; --univer-tw-ring-color: rgba(147, 197, 253, .5); --univer-tw-ring-offset-shadow: 0 0 rgba(0,0,0,0); --univer-tw-ring-shadow: 0 0 rgba(0,0,0,0); --univer-tw-shadow: 0 0 rgba(0,0,0,0); --univer-tw-shadow-colored: 0 0 rgba(0,0,0,0); --univer-tw-blur: ; --univer-tw-brightness: ; --univer-tw-contrast: ; --univer-tw-grayscale: ; --univer-tw-hue-rotate: ; --univer-tw-invert: ; --univer-tw-saturate: ; --univer-tw-sepia: ; --univer-tw-drop-shadow: ; --univer-tw-backdrop-blur: ; --univer-tw-backdrop-brightness: ; --univer-tw-backdrop-contrast: ; --univer-tw-backdrop-grayscale: ; --univer-tw-backdrop-hue-rotate: ; --univer-tw-backdrop-invert: ; --univer-tw-backdrop-opacity: ; --univer-tw-backdrop-saturate: ; --univer-tw-backdrop-sepia: ; --univer-tw-contain-size: ; --univer-tw-contain-layout: ; --univer-tw-contain-paint: ; --univer-tw-contain-style: ; scrollbar-color: initial; scrollbar-width: initial; color: var(--color-black,#000); --tw-font-weight: var(--font-weight-medium,500); font-family: ui-sans-serif, system-ui, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(248, 248, 248);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;逆向解构 还原实践全貌&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="432.5" y="213" width="196" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.49;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="JaxWSSw-hMi91ldZBh8N-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="301.25" as="sourcePoint" />
-            <mxPoint x="113" y="326.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-40" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; text-align: start; white-space-collapse: preserve-breaks; font-size: 10px;&quot;&gt;境外开源报告&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="30" y="287" width="70" height="35" as="geometry" />
         </mxCell>
@@ -49,7 +43,7 @@
           <mxGeometry x="409" y="319" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-2" value="&lt;b&gt;基础资料库&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="52" y="328" width="120" height="60" as="geometry" />
+          <mxGeometry x="161.5" y="319" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-46" value="境外涉华首都高校开源报告" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=none;fontSize=12;fontStyle=0" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="410" y="254" width="230" height="210" as="geometry">
