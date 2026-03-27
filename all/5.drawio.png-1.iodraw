@@ -117,11 +117,8 @@
         <mxCell id="PguEGsbpX9-gNqg4FFNd-28" value="智能化演进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-49">
           <mxGeometry x="10" y="151" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FUcMa6_dTdMqFL3Zaz3r-12" value="归纳特征，聚焦对策生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="121" y="550" width="170" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-16" value="&lt;b&gt;第三阶段：&lt;/b&gt;归纳特征，聚焦对策生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="146.5" y="510" width="253.5" height="30" as="geometry" />
+          <mxGeometry x="219.75" y="500" width="253.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-58" value="规律性特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="121" y="590" width="74" height="40" as="geometry" />
