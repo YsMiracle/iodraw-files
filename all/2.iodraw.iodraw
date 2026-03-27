@@ -10,16 +10,14 @@
         <mxCell id="ewivrbpOkjv1M3Is3bO8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ewivrbpOkjv1M3Is3bO8-1" source="ewivrbpOkjv1M3Is3bO8-2" target="ewivrbpOkjv1M3Is3bO8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewivrbpOkjv1M3Is3bO8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ewivrbpOkjv1M3Is3bO8-1" source="ewivrbpOkjv1M3Is3bO8-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ewivrbpOkjv1M3Is3bO8-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ewivrbpOkjv1M3Is3bO8-1">
           <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ewivrbpOkjv1M3Is3bO8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ewivrbpOkjv1M3Is3bO8-1">
           <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewivrbpOkjv1M3Is3bO8-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
