@@ -9,9 +9,6 @@
             <mxRectangle x="150" y="150" width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUcMa6_dTdMqFL3Zaz3r-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
-          <mxGeometry x="245" y="140" width="225" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;锚定分析对象，构建资料基础&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;搜集——分析——研判&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="30" y="140" width="170" height="240" as="geometry" />
         </mxCell>
@@ -43,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-15" value="&lt;b&gt;第一阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="60" y="148" width="120" height="30" as="geometry" />
+          <mxGeometry x="60" y="147" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-16" value="&lt;b&gt;第三阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="541.5" y="148" width="120" height="30" as="geometry" />
