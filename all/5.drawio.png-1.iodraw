@@ -118,6 +118,9 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-59" value="效能局限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="497" width="74" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-3" value="逻辑主轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="370" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
