@@ -69,9 +69,6 @@
             <mxRectangle x="160" width="40" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;AI芯片/齿轮&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;传统手段&lt;/li&gt;&lt;li&gt;AI赋能&lt;/li&gt;&lt;li&gt;智能化&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=0;" parent="JaxWSSw-hMi91ldZBh8N-49" vertex="1">
-          <mxGeometry y="45" width="90" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-12" value="归纳特征，聚焦对策生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="121" y="550" width="170" height="210" as="geometry" />
         </mxCell>
@@ -115,6 +112,12 @@
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;目标靶心&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;议题聚焦&lt;/li&gt;&lt;li&gt;技术偏好&lt;/li&gt;&lt;li style=&quot;&quot;&gt;人才关注&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=0;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="485.5" y="465" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JaxWSSw-hMi91ldZBh8N-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;AI芯片/齿轮&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;传统手段&lt;/li&gt;&lt;li&gt;AI赋能&lt;/li&gt;&lt;li&gt;智能化&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=0;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
+          <mxGeometry x="590" y="464" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
