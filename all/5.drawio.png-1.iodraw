@@ -54,21 +54,27 @@
           <mxGeometry x="190" y="319" width="101" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-46" value="境外涉华首都高校开源报告" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=none;fontSize=12;fontStyle=0" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="380" y="254" width="330" height="210" as="geometry">
+          <mxGeometry x="380" y="254" width="335" height="210" as="geometry">
             <mxRectangle x="246" y="170" width="40" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-47" value="主体：网络节点" style="swimlane;startSize=20;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-46" vertex="1">
-          <mxGeometry x="20" width="110" height="210" as="geometry" />
+          <mxGeometry x="20" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-47" source="PguEGsbpX9-gNqg4FFNd-11" target="PguEGsbpX9-gNqg4FFNd-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-11" value="机构署名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-47">
-          <mxGeometry x="15" y="36" width="80" height="29" as="geometry" />
+          <mxGeometry x="15" y="36" width="80" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-47">
+          <mxGeometry x="-5" y="122" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-48" value="客体：目标靶心" style="swimlane;startSize=20;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-46" vertex="1">
-          <mxGeometry x="130" width="100" height="210" as="geometry" />
+          <mxGeometry x="135" width="100" height="210" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-49" value="技术：技术链条" style="swimlane;startSize=20;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-46" vertex="1">
-          <mxGeometry x="230" width="100" height="210" as="geometry">
+          <mxGeometry x="235" width="100" height="210" as="geometry">
             <mxRectangle x="160" width="40" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
