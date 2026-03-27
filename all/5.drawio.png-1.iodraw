@@ -9,6 +9,9 @@
             <mxRectangle x="150" y="150" width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-3" value="逻辑主轴" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
+          <mxGeometry x="71" y="40" width="578" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-12" value="归纳特征，聚焦对策生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="516" y="337" width="170" height="210" as="geometry" />
         </mxCell>
@@ -102,9 +105,6 @@
               <mxPoint x="602" y="437" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PguEGsbpX9-gNqg4FFNd-3" value="逻辑主轴" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
-          <mxGeometry x="82" y="50" width="540" height="170" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-41" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;半结构访谈&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="168" y="597" width="70" height="35" as="geometry" />
