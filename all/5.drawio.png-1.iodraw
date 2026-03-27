@@ -9,9 +9,6 @@
             <mxRectangle x="150" y="150" width="390" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PguEGsbpX9-gNqg4FFNd-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
-          <mxGeometry x="84" y="539" width="546" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-3" value="&amp;nbsp; 逻辑主轴" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="71" y="40" width="578" height="150" as="geometry" />
         </mxCell>
@@ -157,6 +154,9 @@
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-74" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="526.5" y="471" width="27" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="950" width="546" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
