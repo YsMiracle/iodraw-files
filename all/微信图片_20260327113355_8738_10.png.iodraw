@@ -155,7 +155,7 @@
           <mxGeometry x="17" y="195" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrYNY2WeFRYoJran8DqH-88" value="动态的数据治理与技术反制" style="ellipse;whiteSpace=wrap;html=1;" parent="GrYNY2WeFRYoJran8DqH-90" vertex="1">
-          <mxGeometry x="147" y="195" width="90" height="60" as="geometry" />
+          <mxGeometry x="147" y="195" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrYNY2WeFRYoJran8DqH-89" value="防御体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="GrYNY2WeFRYoJran8DqH-90" vertex="1">
           <mxGeometry x="17" y="162" width="60" height="30" as="geometry" />
