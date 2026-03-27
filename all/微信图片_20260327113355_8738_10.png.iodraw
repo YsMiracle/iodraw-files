@@ -130,7 +130,7 @@
         <mxCell id="GrYNY2WeFRYoJran8DqH-90" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="540" y="390" width="350" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="GrYNY2WeFRYoJran8DqH-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#FFFFFF;" parent="GrYNY2WeFRYoJran8DqH-90" vertex="1">
+        <mxCell id="GrYNY2WeFRYoJran8DqH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#FFFFFF;" parent="GrYNY2WeFRYoJran8DqH-90" vertex="1">
           <mxGeometry width="350" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GrYNY2WeFRYoJran8DqH-77" value="现实意义：主动防御体系构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="GrYNY2WeFRYoJran8DqH-90" vertex="1">
