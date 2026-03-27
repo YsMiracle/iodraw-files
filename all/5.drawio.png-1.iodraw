@@ -68,7 +68,7 @@
           <mxGeometry x="15" y="36" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-12" value="资金来源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-47">
-          <mxGeometry x="-5" y="122" width="120" height="38" as="geometry" />
+          <mxGeometry x="-5" y="96" width="80" height="38" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-48" value="客体：目标靶心" style="swimlane;startSize=20;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-46" vertex="1">
           <mxGeometry x="135" width="100" height="210" as="geometry" />
@@ -124,9 +124,6 @@
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;AI芯片/齿轮&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;传统手段&lt;/li&gt;&lt;li&gt;AI赋能&lt;/li&gt;&lt;li&gt;智能化&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=0;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="590" y="464" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PguEGsbpX9-gNqg4FFNd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JaxWSSw-hMi91ldZBh8N-3" source="PguEGsbpX9-gNqg4FFNd-12" target="JaxWSSw-hMi91ldZBh8N-56">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
