@@ -47,9 +47,6 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-40" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; text-align: start; white-space-collapse: preserve-breaks; font-size: 10px;&quot;&gt;核心：境外开源报告&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="51" y="290" width="99" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;网络节点&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;机构署名&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;资金来源&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;协同网络&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=0;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="376" y="470" width="90" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-2" value="&lt;b&gt;基础资料库&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="190" y="319" width="101" height="60" as="geometry" />
         </mxCell>
@@ -117,7 +114,7 @@
         <mxCell id="PguEGsbpX9-gNqg4FFNd-27" value="AI赋能" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-49">
           <mxGeometry x="10" y="97.5" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="PguEGsbpX9-gNqg4FFNd-28" value="协同网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-49">
+        <mxCell id="PguEGsbpX9-gNqg4FFNd-28" value="智能化演进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-49">
           <mxGeometry x="10" y="151" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-12" value="归纳特征，聚焦对策生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
@@ -160,12 +157,6 @@
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
           <mxGeometry x="317" y="335.5" width="59" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;目标靶心&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;议题聚焦&lt;/li&gt;&lt;li&gt;技术偏好&lt;/li&gt;&lt;li style=&quot;&quot;&gt;人才关注&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=0;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="485.5" y="465" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;AI芯片/齿轮&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;传统手段&lt;/li&gt;&lt;li&gt;AI赋能&lt;/li&gt;&lt;li&gt;智能化&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=0;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="590" y="464" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
