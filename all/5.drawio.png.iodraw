@@ -48,9 +48,6 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-26" value="&lt;b&gt;第二阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="301" y="148" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JaxWSSw-hMi91ldZBh8N-31" value="&lt;b&gt;基础资料库&lt;/b&gt;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="64" y="245" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.49;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="JaxWSSw-hMi91ldZBh8N-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="218.25" as="sourcePoint" />
@@ -82,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-2" value="&lt;b&gt;基础资料库&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
-          <mxGeometry x="182" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="52" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-41" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;半结构访谈&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="168" y="430" width="70" height="35" as="geometry" />
