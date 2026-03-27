@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="JaxWSSw-hMi91ldZBh8N-3">
-          <mxGeometry x="92" y="110" width="618" height="150" as="geometry" />
+          <mxGeometry x="52" y="50" width="618" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-41" value="&lt;span style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;半结构访谈&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="168" y="597" width="70" height="35" as="geometry" />
