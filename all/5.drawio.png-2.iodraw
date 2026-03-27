@@ -129,7 +129,7 @@
         <mxCell id="JaxWSSw-hMi91ldZBh8N-58" value="规律性特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="130" y="548" width="74" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FUcMa6_dTdMqFL3Zaz3r-7" value="&lt;b style=&quot;color: rgb(12, 10, 9); font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;首都高校开源安全治理建议&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
+        <mxCell id="FUcMa6_dTdMqFL3Zaz3r-7" value="&lt;b style=&quot;color: rgb(12, 10, 9); font-size: 10px; text-align: start; white-space-collapse: preserve-breaks;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;首都高校开源安全治理建议&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
           <mxGeometry x="271.5" y="608" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PguEGsbpX9-gNqg4FFNd-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-59" target="FUcMa6_dTdMqFL3Zaz3r-7" edge="1">
