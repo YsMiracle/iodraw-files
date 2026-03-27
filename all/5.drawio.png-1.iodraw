@@ -13,7 +13,7 @@
           <mxGeometry x="71" y="40" width="578" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FUcMa6_dTdMqFL3Zaz3r-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;锚定分析对象，构建资料基础&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;搜集——分析——研判&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" vertex="1">
-          <mxGeometry x="30" y="253" width="170" height="210" as="geometry" />
+          <mxGeometry x="30" y="253" width="280" height="207" as="geometry" />
         </mxCell>
         <mxCell id="JaxWSSw-hMi91ldZBh8N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JaxWSSw-hMi91ldZBh8N-3" source="JaxWSSw-hMi91ldZBh8N-5" target="JaxWSSw-hMi91ldZBh8N-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
