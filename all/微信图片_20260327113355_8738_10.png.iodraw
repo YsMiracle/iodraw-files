@@ -94,10 +94,10 @@
         <mxCell id="GrYNY2WeFRYoJran8DqH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="GrYNY2WeFRYoJran8DqH-31" source="GrYNY2WeFRYoJran8DqH-59" target="GrYNY2WeFRYoJran8DqH-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GrYNY2WeFRYoJran8DqH-59" value="数据驱动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=default;strokeColor=#001DBC;fontStyle=1;" parent="GrYNY2WeFRYoJran8DqH-31" vertex="1">
+        <mxCell id="GrYNY2WeFRYoJran8DqH-59" value="数据驱动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=default;strokeColor=default;fontStyle=1;" parent="GrYNY2WeFRYoJran8DqH-31" vertex="1">
           <mxGeometry x="39" y="245" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrYNY2WeFRYoJran8DqH-60" value="智能驱动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#001DBC;fontStyle=1;" parent="GrYNY2WeFRYoJran8DqH-31" vertex="1">
+        <mxCell id="GrYNY2WeFRYoJran8DqH-60" value="智能驱动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=default;fontStyle=1;" parent="GrYNY2WeFRYoJran8DqH-31" vertex="1">
           <mxGeometry x="224" y="245" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrYNY2WeFRYoJran8DqH-76" value="" style="group;fillColor=none;strokeColor=none;" parent="1" vertex="1" connectable="0">
